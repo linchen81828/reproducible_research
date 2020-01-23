@@ -1,3 +1,4 @@
 library(dplyr)
-
-print('this is what I have learnt')
+library(kernlab)
+data(spam)
+str(spam[,1:5])
