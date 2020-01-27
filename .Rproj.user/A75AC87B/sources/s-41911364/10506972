@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579800395496.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "10506972",
+    "lastKnownWriteTime" : 1461149642600,
+    "last_content_update" : 1579800395496,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "dd1c83a3c5294aa592f3d1038c397ca4",
+        "name" : "aFit",
+        "title" : "aFit"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

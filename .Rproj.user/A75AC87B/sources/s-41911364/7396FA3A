@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579779735461.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7396FA3A",
+    "lastKnownWriteTime" : 1579777914,
+    "last_content_update" : 1579779735461,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "49a56561e84947ae8dd576c5d104124b",
+        "name" : "hClusterUpdated",
+        "title" : "hClusterUpdated"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
